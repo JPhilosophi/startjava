@@ -1,3 +1,7 @@
+import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 public class Calculator {
     public static void main(String[] args) {
         int num1;
